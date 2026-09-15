@@ -1,0 +1,7 @@
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\student\student\obj\Debug\student.csproj.AssemblyReference.cache
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\student\student\bin\Debug\student.exe.config
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\student\student\bin\Debug\student.exe
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\student\student\bin\Debug\student.pdb
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\student\student\obj\Debug\student.exe
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\student\student\obj\Debug\student.pdb
