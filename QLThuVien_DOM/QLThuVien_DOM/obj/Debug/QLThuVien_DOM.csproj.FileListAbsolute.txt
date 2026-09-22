@@ -1,0 +1,7 @@
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\QLThuVien_DOM\QLThuVien_DOM\bin\Debug\QLThuVien_DOM.exe.config
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\QLThuVien_DOM\QLThuVien_DOM\bin\Debug\QLThuVien_DOM.exe
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\QLThuVien_DOM\QLThuVien_DOM\bin\Debug\QLThuVien_DOM.pdb
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\QLThuVien_DOM\QLThuVien_DOM\obj\Debug\QLThuVien_DOM.csproj.AssemblyReference.cache
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\QLThuVien_DOM\QLThuVien_DOM\obj\Debug\QLThuVien_DOM.csproj.CoreCompileInputs.cache
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\QLThuVien_DOM\QLThuVien_DOM\obj\Debug\QLThuVien_DOM.exe
+D:\Học_Tập\Chuyên_Ngành\HK_126\Thực Hành\TH Công nghệ XML\QLThuVien_DOM\QLThuVien_DOM\obj\Debug\QLThuVien_DOM.pdb
