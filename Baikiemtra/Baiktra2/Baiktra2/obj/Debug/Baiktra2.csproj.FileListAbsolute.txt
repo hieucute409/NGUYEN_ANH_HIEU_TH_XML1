@@ -1,0 +1,7 @@
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\Baiktra2\Baiktra2\bin\Debug\Baiktra2.exe.config
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\Baiktra2\Baiktra2\bin\Debug\Baiktra2.exe
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\Baiktra2\Baiktra2\bin\Debug\Baiktra2.pdb
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\Baiktra2\Baiktra2\obj\Debug\Baiktra2.csproj.AssemblyReference.cache
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\Baiktra2\Baiktra2\obj\Debug\Baiktra2.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\Baiktra2\Baiktra2\obj\Debug\Baiktra2.exe
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\Baiktra2\Baiktra2\obj\Debug\Baiktra2.pdb

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\H\u1ECDc_T\u1EADp\\Chuy\u00EAn_Ng\u00E0nh\\HK_126\\Th\u1EF1c H\u00E0nh\\TH C\u00F4ng ngh\u1EC7 XML\\NGUYEN_ANH_HIEU_TH_XML1\\student\\",
+  "WorkspaceRootPath": "D:\\Hoc_Tap\\Chuyen_nganh\\HK_126\\Thuc_hanh\\TH C\u00F4ng ngh\u1EC7 XML\\NGUYEN_ANH_HIEU_TH_XML1\\student\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12CF9FEB-02B6-44C0-9F27-AFE7AECEB0F6}|student\\student.csproj|d:\\h\u1ECDc_t\u1EADp\\chuy\u00EAn_ng\u00E0nh\\hk_126\\th\u1EF1c h\u00E0nh\\th c\u00F4ng ngh\u1EC7 xml\\nguyen_anh_hieu_th_xml1\\student\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12CF9FEB-02B6-44C0-9F27-AFE7AECEB0F6}|student\\student.csproj|d:\\hoc_tap\\chuyen_nganh\\hk_126\\thuc_hanh\\th c\u00F4ng ngh\u1EC7 xml\\nguyen_anh_hieu_th_xml1\\student\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12CF9FEB-02B6-44C0-9F27-AFE7AECEB0F6}|student\\student.csproj|solutionrelative:student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,21 +30,25 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc_T\u1EADp\\Chuy\u00EAn_Ng\u00E0nh\\HK_126\\Th\u1EF1c H\u00E0nh\\TH C\u00F4ng ngh\u1EC7 XML\\NGUYEN_ANH_HIEU_TH_XML1\\student\\student\\Program.cs",
+              "DocumentMoniker": "D:\\Hoc_Tap\\Chuyen_nganh\\HK_126\\Thuc_hanh\\TH C\u00F4ng ngh\u1EC7 XML\\NGUYEN_ANH_HIEU_TH_XML1\\student\\student\\Program.cs",
               "RelativeDocumentMoniker": "student\\Program.cs",
-              "ToolTip": "D:\\H\u1ECDc_T\u1EADp\\Chuy\u00EAn_Ng\u00E0nh\\HK_126\\Th\u1EF1c H\u00E0nh\\TH C\u00F4ng ngh\u1EC7 XML\\NGUYEN_ANH_HIEU_TH_XML1\\student\\student\\Program.cs",
+              "ToolTip": "D:\\Hoc_Tap\\Chuyen_nganh\\HK_126\\Thuc_hanh\\TH C\u00F4ng ngh\u1EC7 XML\\NGUYEN_ANH_HIEU_TH_XML1\\student\\student\\Program.cs",
               "RelativeToolTip": "student\\Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T10:51:48.664Z",
               "EditorCaption": ""

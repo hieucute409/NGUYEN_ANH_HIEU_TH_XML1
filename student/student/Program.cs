@@ -65,33 +65,6 @@ namespace student
             students.Where(s => s.Age >= 20).ToList().ForEach(s => Console.WriteLine(s));
             Console.ReadLine(); // Giữ màn hình Console không bị đóng lập tức
         }
-        private static void EnsureXmlFile(string filePath)
-        {
-            if (!File.Exists(filePath))
-            {
-                string xmlContent = @"<?xml version=""1.0"" encoding=""utf-8""?>
-<students>
-    <student id=""SV01"">
-        <name>Nguyen Anh Hieu</name>
-        <age>20</age>
-        <email>hnek2k6@gmail.com</email>
-        <major>Computer Science</major>
-    </student>
-    <student id=""SV02"">
-        <name>Do Phu Huy</name>
-        <age>36</age>
-        <email>huygameing@gmail.com</email>
-        <major>Information Technology</major>
-    </student>
-    <student id=""SV03"">
-        <name>Nguyen Hong Nguyen</name>
-        <age>16</age>
-        <email>nguyenngu@gmail.com</email>
-        <major>Software Engineering</major>
-    </student>
-</students>";
-                File.WriteAllText(filePath, xmlContent);
-            }
-        }
+       
     }
 }
