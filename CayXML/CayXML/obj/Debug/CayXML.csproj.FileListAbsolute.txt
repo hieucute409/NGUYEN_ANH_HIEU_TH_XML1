@@ -1,0 +1,7 @@
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\NGUYEN_ANH_HIEU_TH_XML1\CayXML\CayXML\bin\Debug\CayXML.exe.config
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\NGUYEN_ANH_HIEU_TH_XML1\CayXML\CayXML\bin\Debug\CayXML.exe
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\NGUYEN_ANH_HIEU_TH_XML1\CayXML\CayXML\bin\Debug\CayXML.pdb
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\NGUYEN_ANH_HIEU_TH_XML1\CayXML\CayXML\obj\Debug\CayXML.csproj.AssemblyReference.cache
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\NGUYEN_ANH_HIEU_TH_XML1\CayXML\CayXML\obj\Debug\CayXML.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\NGUYEN_ANH_HIEU_TH_XML1\CayXML\CayXML\obj\Debug\CayXML.exe
+D:\Hoc_Tap\Chuyen_nganh\HK_126\Thuc_hanh\TH Công nghệ XML\NGUYEN_ANH_HIEU_TH_XML1\CayXML\CayXML\obj\Debug\CayXML.pdb
